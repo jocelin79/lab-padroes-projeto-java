@@ -1,5 +1,9 @@
 package org.example;
 
+import org.example.singleton.SingletonEager;
+import org.example.singleton.SingletonLazy;
+import org.example.singleton.SingletonLazyHolder;
+
 /**
  * Hello world!
  *
