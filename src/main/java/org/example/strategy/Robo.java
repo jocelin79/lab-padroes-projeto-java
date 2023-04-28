@@ -8,5 +8,7 @@ public class Robo {
         this.comportamento = comportamento;
     }
 
-
+    public void mover() {
+        comportamento.mover();
+    }
 }
